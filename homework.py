@@ -12,7 +12,6 @@ class Record:
 
 
 class Calculator:
-
     def __init__(self, limit):
         self.limit = limit
         self.records = []
